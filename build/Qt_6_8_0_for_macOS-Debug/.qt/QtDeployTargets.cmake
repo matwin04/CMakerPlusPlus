@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_CMakerPlusPlus_FILE /Users/frostie/projects/CMakerPlusPlus/build/Qt_6_8_0_for_macOS-Debug/CMakerPlusPlus.app/Contents/MacOS/CMakerPlusPlus)
+set(__QT_DEPLOY_TARGET_CMakerPlusPlus_TYPE EXECUTABLE)
