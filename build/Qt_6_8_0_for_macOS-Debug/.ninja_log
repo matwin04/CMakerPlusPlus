@@ -1,0 +1,17 @@
+# ninja log v6
+143	1820	1732036270076191084	CMakeFiles/CMakerPlusPlus.dir/mainwindow.cpp.o	bbce0973a08b64a5
+593	2307	1732036077845221721	CMakeFiles/CMakerPlusPlus.dir/main.cpp.o	884ea8f5e5a51e92
+593	2298	1732036077844978891	CMakeFiles/CMakerPlusPlus.dir/CMakerPlusPlus_autogen/mocs_compilation.cpp.o	1433eb96f33bb96a
+38	142	1732036269972101725	CMakerPlusPlus_autogen/mocs_compilation.cpp	809556f4366d3db7
+38	142	1732036269972101725	CMakerPlusPlus_autogen/timestamp	809556f4366d3db7
+38	142	1732036269972101725	/Users/frostie/projects/CMakerPlusPlus/build/Qt_6_8_0_for_macOS-Debug/CMakerPlusPlus_autogen/mocs_compilation.cpp	809556f4366d3db7
+1820	2101	1732036271753948783	CMakerPlusPlus.app/Contents/MacOS/CMakerPlusPlus	5fbc15c986d3d421
+38	142	1732036269972101725	/Users/frostie/projects/CMakerPlusPlus/build/Qt_6_8_0_for_macOS-Debug/CMakerPlusPlus_autogen/timestamp	809556f4366d3db7
+9	330	1732036472180884830	build.ninja	cab680aa47295677
+11	110	1732036472214061444	CMakerPlusPlus_autogen/timestamp	809556f4366d3db7
+11	110	1732036472214061444	CMakerPlusPlus_autogen/mocs_compilation.cpp	809556f4366d3db7
+11	110	1732036472214061444	/Users/frostie/projects/CMakerPlusPlus/build/Qt_6_8_0_for_macOS-Debug/CMakerPlusPlus_autogen/timestamp	809556f4366d3db7
+11	110	1732036472214061444	/Users/frostie/projects/CMakerPlusPlus/build/Qt_6_8_0_for_macOS-Debug/CMakerPlusPlus_autogen/mocs_compilation.cpp	809556f4366d3db7
+110	229	1732036472312928752	CMakeFiles/CMakerPlusPlus.dir/listEditor.cpp.o	141a71e4409a089
+110	1399	1732036472312640881	CMakeFiles/CMakerPlusPlus.dir/mainwindow.cpp.o	bbce0973a08b64a5
+1399	1715	1732036473601713293	CMakerPlusPlus.app/Contents/MacOS/CMakerPlusPlus	d654fc4cece0968
